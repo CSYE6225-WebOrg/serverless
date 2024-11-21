@@ -6,7 +6,7 @@
 This repository contains a serverless AWS Lambda function designed to process SNS messages and send email verification links using the SendGrid API.
 
 ## **Prerequisites**
-Before you begin, ensure you have the following:
+Before you begin, ensure you have the following: 
 - **AWS Account**: For deploying and managing Lambda functions and SNS services.
 - **SendGrid Account**: To generate an API key for email services.
 - **Node.js Installed**: For local development and deployment.
